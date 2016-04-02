@@ -12,6 +12,9 @@ Arduino IDE:
 Myo Installer:
 * https://www.myo.com/start
 
+If we have time:
+----------------
+
 MyoDuino:
 * https://market.myo.com/app/54bd7403e4b00db53ad527a2/myoduino-
 
