@@ -4,8 +4,6 @@ CU Make Myo/Arduino Workshop
 Required Software:
 ------------------
 
-Windows ONLY
-
 Arduino IDE:
 * https://www.arduino.cc/en/Main/Software
 
@@ -14,6 +12,8 @@ Myo Installer:
 
 If we have time:
 ----------------
+
+Windows ONLY
 
 MyoDuino:
 * https://market.myo.com/app/54bd7403e4b00db53ad527a2/myoduino-
